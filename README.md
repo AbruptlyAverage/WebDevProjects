@@ -1,1 +1,5 @@
-# WebDevProjects[README.MD](https://github.com/AbruptlyAverage/WebDevProjects/files/7027985/README.MD)
+# WebDevProjects
+
+Title: WebDevProjects
+
+Description: This repository contains web development projects I have completed. These projects have been completed to practice and learn web development, with emphasis on CSS and Java. 
